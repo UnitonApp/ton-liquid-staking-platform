@@ -49,10 +49,3 @@ Liquid staking lets token holders earn staking rewards while keeping a liquid, t
 **Which blockchain?** TON (The Open Network).
 
 **Which wallets are supported?** Any wallet compatible with TON Connect.
-
-## Related projects
-
-Related tools:
-
-- [Crypto Trading Chat Access Bot](https://github.com/DeFiTON/crypto-trading-chat-access-bot)
-- [Telegram Stars CPA Tasks Bot](https://github.com/DeFiTON/telegram-stars-cpa-tasks-bot)
